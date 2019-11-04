@@ -29,7 +29,8 @@ exactly when Open MPI kills them.
 [bixie1:06774] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
 
 
-
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
 
 
 Attempt No.2
