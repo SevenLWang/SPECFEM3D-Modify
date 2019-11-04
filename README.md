@@ -10,7 +10,7 @@ Rewrite the
   SPACING_ETA   = 144.00             SPACING_ETA   = 40.00
 
 Results: WRONG!!!
-******************************************************************************************************************************
+
   running solver on  2 processors...
 
  need at least one receiver
@@ -27,7 +27,7 @@ exactly when Open MPI kills them.
 --------------------------------------------------------------------------
 [bixie1:06774] 1 more process has sent help message help-mpi-api.txt / mpi-abort
 [bixie1:06774] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
-******************************************************************************************************************************
+
 
 
 
@@ -36,6 +36,5 @@ Attempt No.2
 Reweite the LATITUDE & LOTITUDE back.
 
 Results:
-******************************************************************************************************************************
-run_this_example.sh:行99: ./bin/xcreate_movie_shakemap_AVS_DX_GMT: 没有那个文件或目录
-******************************************************************************************************************************
+  run_this_example.sh:行99: ./bin/xcreate_movie_shakemap_AVS_DX_GMT: 没有那个文件或目录
+
